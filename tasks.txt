@@ -1,0 +1,11 @@
+Title|Date|Status
+To learn ML|2024-02-15|false
+To learn react|2024-03-10|false
+Complete Java Project|2024-04-05|false
+Prepare for Exams|2024-05-20|false
+Start Python Course|2024-06-15|true
+Plan Vacation|2024-07-01|false
+Read 5 Books|2024-08-12|false
+Join Gym|2024-09-25|false
+Build Portfolio Website|2024-10-08|false
+Attend Networking Event|2024-11-15|false
